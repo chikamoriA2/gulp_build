@@ -1,0 +1,27 @@
+{
+  "name": "gulp_build",
+  "version": "1.0.0",
+  "description": "Gulp-build-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "untitled",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-sass-glob": "^1.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "gulp-watch": "^5.0.1",
+    "sass": "^1.49.9"
+  },
+  "dependencies": {
+    "globalthis": "^1.0.3"
+  }
+}

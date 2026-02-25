@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA;EACI;;AACA;EACI;;;AAIR;EACA","file":"style.css","sourcesContent":["a {\n    color: #88f;\n    &:hover {\n        text-decoration: none;\n    }\n}\n \n.ssas{\ncolor: red;\n}\n"]}
